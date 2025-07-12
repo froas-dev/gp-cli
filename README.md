@@ -1,6 +1,6 @@
-# pycom
+# pycmt
 
-**pycom** is a simple CLI tool for instantly running `git add .`, `git commit -m "message"`, and `git push` with a single command.
+**pycmt** is a simple CLI tool for instantly running `git add .`, `git commit -m "message"`, and `git push` with a single command.
 
 ---
 
@@ -9,7 +9,7 @@
 From any git repository, simply run:
 
 ```bash
-pycom "your commit message"
+gp "your commit message"
 ```
 
 The tool will:
@@ -30,7 +30,7 @@ pip install .
 Or, if published on PyPI:
 
 ```bash
-pip install pycom
+pip install pycmt
 ```
 
 ---
@@ -38,7 +38,7 @@ pip install pycom
 ## 💡 Why?
 
 Typing `git add . && git commit -m "" && git push` every time is boring!  
-Use `pycom` for one-shot commits to speed up your workflow.
+Use `pycmt` for one-shot commits to speed up your workflow.
 
 ---
 

@@ -1,0 +1,9 @@
+LICENCE
+README.md
+pycommit.py
+pyproject.toml
+pycmt.egg-info/PKG-INFO
+pycmt.egg-info/SOURCES.txt
+pycmt.egg-info/dependency_links.txt
+pycmt.egg-info/entry_points.txt
+pycmt.egg-info/top_level.txt

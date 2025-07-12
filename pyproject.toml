@@ -1,5 +1,5 @@
 [project]
-name = "pycom"
+name = "pycmt"
 version = "0.1.0"
 description = "Fast git add/commit/push via one CLI command"
 authors = [
@@ -10,4 +10,4 @@ license = {file = "LICENSE"}
 dependencies = []
 
 [project.scripts]
-pycom = "pycommit:main"
+gp = "pycommit:main"
