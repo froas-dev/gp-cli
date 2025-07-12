@@ -44,12 +44,10 @@ Use `pycom` for one-shot commits to speed up your workflow.
 
 ## 📝 License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT — see [LICENSE](https://github.com/froas-dev/pico/blob/master/LICENCE) for details.
 
 ---
 
 **Author:** [Froas](https://github.com/Froas)
 ```
 
-**Готов к копипасту!**  
-Если нужно что-то подправить (например, добавить опции или usage на русском) — напиши!
