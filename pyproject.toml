@@ -1,5 +1,5 @@
 [project]
-name = "pycmt"
+name = "gpcli"
 version = "0.1.0"
 description = "Fast git add/commit/push via one CLI command"
 authors = [

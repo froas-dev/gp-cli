@@ -1,6 +1,15 @@
-# gpcli
+Metadata-Version: 2.4
+Name: pygq
+Version: 0.1.0
+Summary: Fast git add/commit/push via one CLI command
+Author-email: Froas <froas.dev@gmail.com>
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Dynamic: license-file
 
-**gpcli (Git Push CLI)** is a simple CLI tool for instantly running `git add .`, `git commit -m "message"`, and `git push` with a single command.
+# pyqw
+
+**Python Git Quick** is a simple CLI tool for instantly running `git add .`, `git commit -m "message"`, and `git push` with a single command.
 
 ---
 
@@ -30,7 +39,7 @@ pip install .
 Or, if published on PyPI:
 
 ```bash
-pip install gpcli
+pip install pygq
 ```
 
 ---
