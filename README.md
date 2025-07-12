@@ -49,5 +49,5 @@ MIT — see [LICENSE](https://github.com/froas-dev/pico/blob/master/LICENCE) for
 ---
 
 **Author:** [Froas](https://github.com/Froas)
-```
+
 
