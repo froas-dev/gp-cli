@@ -21,14 +21,6 @@ The tool will:
 
 ## 🛠️ Installation
 
-Clone this repository and install locally:
-
-```bash
-pip install .
-```
-
-Or, if published on PyPI:
-
 ```bash
 pip install gpcli
 ```
@@ -38,7 +30,7 @@ pip install gpcli
 ## 💡 Why?
 
 Typing `git add . && git commit -m "" && git push` every time is boring!  
-Use `pycmt` for one-shot commits to speed up your workflow.
+Use `gp` for one-shot commits to speed up your workflow.
 
 ---
 
